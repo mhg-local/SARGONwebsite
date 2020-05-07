@@ -11,17 +11,15 @@ The [Concepts page](/concepts) presents an overview of core concepts of SARGON.
 
 ### Exploring existing SARGON models
 
-- **Observe** SARGON Schema for smart appliances in building and smart grid network using the [SARGON ckViewer tool](http://viewer.brickschema.org/)
 - **Download** the SARGON models in two formats [this page](/resources#reference-brick-models) for use with ontology exploration tools like [Protege](https://protege.stanford.edu/)
 
 ### Using SARGON for device provisioning and governing
 
 - **Deploy an wen interface** for ingesting and retrieving data using SARGON models with the [Device Wizard *(Entierty)](https://git.rwth-aachen.de/EBC/Team_BA/projects/n5geh/tools/n5geh.tools.entirety) reference implementation
-- **Build and execute** analytics applications that scale across tens or hundreds of buildings using the [Mortar data platform](https://mortardata.org/)
 
 ### Create your own SARGON models
 
-- **Iterate** on existing SARGON models and interactively add components with [SARGON Studio](/tools/BrickStudio)
+- **Iterate** on existing SARGON models and interactively add components with (**link coming soon**) <!--  [SARGON Studio](/tools/BrickStudio) -->
 - **Convert** existing metadata into a SARGON model (**link coming soon**)
 
 ---
