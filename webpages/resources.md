@@ -12,7 +12,7 @@ The SARGON a modular network ontology which defined as a set of [Turtle][3] and 
 Turtle is a compact textual format that is understood by most Semantic Web tools.
 
 
-- **Latest Version (1.0.3)**:
+- **Latest Version (1.1)**:
    - [SARGON.ttl][1]
    - [SARGON.OWL][2]
 
