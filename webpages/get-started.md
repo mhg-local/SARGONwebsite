@@ -15,7 +15,7 @@ The [Concepts page](/concepts) presents an overview of core concepts of SARGON.
 
 ### Using SARGON for device provisioning and governing
 
-- **Deploy an wen interface** for ingesting and retrieving data using SARGON models with the [Device Wizard *(Entierty)](https://git.rwth-aachen.de/EBC/Team_BA/projects/n5geh/tools/n5geh.tools.entirety) reference implementation
+- **Deploy an wen interface** for ingesting and retrieving data using SARGON models with the [Device Wizard *(Entierty)](https://git.rwth-aachen.de/EBC/Team_BA/projects/n5geh/n5geh.tutorials/n5geh.tutorials.entirety_step_by_step) reference implementation
 
 ### Create your own SARGON models
 
