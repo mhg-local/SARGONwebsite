@@ -14,9 +14,9 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'BrickSchema',
-  siteDescription: 'A uniform metadata schema for buildings',
-  siteUrl: 'https://brickschema.org',
+  siteName: 'SARGON Schema',
+  siteDescription: 'Ontology of Smart Energy Domain',
+  siteUrl: 'https://SARGONschema.org',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
