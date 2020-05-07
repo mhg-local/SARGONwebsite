@@ -1,5 +1,5 @@
 ---
-title: Understanding Brick
+title: Understanding SARGON
 path: /concepts
 summary: Overview, Design Principles and Core Concepts
 show_on_navbar: false
