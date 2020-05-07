@@ -81,7 +81,7 @@ In SARGON, the graph is represented using the RDF data model. The [RDF primer pa
 
 **SARGON Model**: a SARGON model is a digital representation of a building that adheres to the SARGON schema. Entities in a SARGON model are classified according to the classes defined by Brick, and are connected using the relationships defined by Brick. Several reference models are [available for download](/resources/#reference-brick-models).
 
-![Brick Model Example](/images/DM01.png)
+![SARGON Model Example](/images/DM01.png)
 
 <details>
 <summary>Learn more</summary>
