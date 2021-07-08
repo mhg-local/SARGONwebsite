@@ -6,7 +6,7 @@
 
       </div>
       <div class="text-4xl font-bold w-full sm:w-20/12 text-center sm:text-left">
-        <div class="leading-tight mr-8 mb-6 lg:mb-0">SARGON</div>
+        <div class="leading-tight mr-8 mb-6 lg:mb-0">SARGON WEB APP</div>
         <div class="text-left text-primary-700 "> ontology for smart energy domain</div>
       </div>
     </div> <!-- end hero -->
