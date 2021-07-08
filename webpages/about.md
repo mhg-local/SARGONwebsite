@@ -11,7 +11,7 @@ SARGON (SmArt eneRGy dOmain oNtology)is an open-source effort to define semantic
 SARGON consists of an **extensible dictionary** of terms and concepts in and around building and smart grid, a set of **relationships** for linking and composing concepts together, and a **flexible data model** permitting seamless integration of SARGON with existing tools and databases.
 Through the use of powerful Semantic Web technology, SARGON can describe the broad set of Devices and custom features, assets and subsystems found across the building stock in a consistent matter.
 
-The source code for SARGON, this website, and related tools are available on **[GitHub](https://git.rwth-aachen.de/EBC/Team_BA/projects/n5geh/n5geh.datamodel/-/tree/master/)**.
+The source code for SARGON, this website, and related tools are available on **[GitHub](https://github.com/mhg-local/SARGONwebsite)**.
 
 ![Brick Model Example](/images/protege.png)
 
