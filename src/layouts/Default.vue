@@ -37,7 +37,7 @@
 <!--                    </li>-->
 
                     <li>
-                        <g-link aria-label="github" to="//git.rwth-aachen.de/EBC/Team_BA/projects/n5geh/n5geh.datamodel"
+                        <g-link aria-label="github" to="https://github.com/mhg-local/SARGONwebsite"
                                 rel="noopener noreferrer" target="_blank" title="SARGON @ GitHub">
                             <svg width="20px" height="20px" viewBox="0 0 438.549 438.549" @mouseover="changeFillColor" @mouseout="resetFillColor" >
                                 <path
