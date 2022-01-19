@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 
 ```sh
-git clone https://git-ce.rwth-aachen.de/acs/private/research/n5geh/all/sargon-website.git
+git clone https://github.com/mhg-local/SARGONwebsite.git
 ```
 ```sh
 cd sargon-website
